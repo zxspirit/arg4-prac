@@ -15,6 +15,7 @@ bin/
 *.iml
 target/
 .idea/
+data/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
